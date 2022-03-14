@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JaySea2956
-- 👀 I’m interested in data analytics
+- 👀 I’m interested in data 
 - 🌱 I’m currently learning SQL,Python,R
 - 💞️ I’m looking to collaborate on anything I can improve my skills on!!!
 - 📫 How to reach me: james.cloonan90@gmail.com or https://www.linkedin.com/in/jamescloonan/
